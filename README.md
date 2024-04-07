@@ -9,7 +9,7 @@ This repository demonstrates how to use Google's **Gemini** AI model in an appli
    git clone https://github.com/MikeChan-HK/Gemini-agent-example.git
    ```
 
-2. **Open and open in Jupiter Notebook or Google colab**
+2. **Download and open it in Jupiter Notebook or Google colab**
 
 ## Usage
 
