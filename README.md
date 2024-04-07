@@ -2,6 +2,14 @@
 
 This repository demonstrates how to use Google's **Gemini** AI model in an application. Gemini is a powerful language model that excels in various tasks, including text generation, chatbots, and more. most importantly.... it's free!!!!
 
+# I need your help
+
+If you like this demo, can you please give me a star on GitHub plz 😬
+
+I need something to write on my students profile.... to make easier for me to apply for college..... 
+
+Thank you, guys! 
+
 ## Getting Started
 
 1. **Clone the Repository:**
