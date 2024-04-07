@@ -15,6 +15,7 @@ This repository demonstrates how to use Google's **Gemini** AI model in an appli
 - Upload to Google Colab and run it online
   OR
   Use Jupyter Notebook to run it locally
+  (Low-level PCs can also be used, even on iPad)
 
 ## Usage
 
