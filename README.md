@@ -6,6 +6,8 @@ This repository demonstrates how to use Google's **Gemini** AI model in an appli
 
 [Edit] Tysm for your star!!! (almost 100) 🫶🏻 I'll share more free tool, if geek community like....
 
+[Gemini Pro API access will still be free after May 2, 2024] Google said "If you use Gemini APl from a project that has billing disabled, you can still use Gemini API free of charge, without the benefits available in our paid plan"
+
 ## Getting Started
 
 1. **Clone the Repository:**
