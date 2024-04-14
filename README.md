@@ -4,7 +4,7 @@ This repository demonstrates how to use Google's **Gemini** AI model in an appli
 
 - If you like this demo, can you please give me a star on GitHub plz 😬 I need something to write on my students profile.... to make easier for me to apply for college..... 
 
-[Edit] Tysm for your star!!! (almost 100) 🙂‍↕️
+[Edit] Tysm for your star!!! (almost 100) 🫶🏻 I'll share more free tool, if geek community like....
 
 ## Getting Started
 
