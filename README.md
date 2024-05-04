@@ -1,4 +1,4 @@
-# Gemini Agent Example
+# Free Online Agent Example
 
 This repository demonstrates how to use Google's **Gemini** AI model in an application. Gemini is a powerful language model that excels in various tasks, including text generation, chatbots, and more. most importantly.... it's free!!!!
 
